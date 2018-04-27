@@ -1,5 +1,7 @@
+# 移动端Vue书城
 ## 操作方法
 
-- 1.全局安装nodeJS(不解释)
-- 2.将项目下载到本地，用cmd命令进入mock文件夹，执行命令：node server.js
-- 3.打开http://localhost:3000
+- 1.全局安装NodeJS(不解释)
+- 2.将项目下载到本地，用cmd命令进入mock-master文件夹，执行命令：```node server.js```
+- 3.打开浏览器，输入http://localhost:3000 即可访问
+- 4.此项目为手机端，请调整浏览器窗口大小，如果3000端口被占用，更改server.js文件的最后一行端口号即可
